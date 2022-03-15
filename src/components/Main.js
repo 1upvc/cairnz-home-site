@@ -16,14 +16,14 @@ const Main = (props) => {
 
         <article id="intro" className={`${props.article === 'intro' ? 'active' : ''} ${props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <Link to="https://bibwoe.com" rel="noopener noreferrer" target="_blank" area-label="Bibwoe">
-            <h2 className="major">Intro</h2>
+            <h2 className="major">About</h2>
           </Link>
           <span className="image main">
             <Link to="https://bibwoe.com" rel="noopener noreferrer" target="_blank" area-label="Bibwoe">
               <StaticImage
                 formats={["auto", "webp"]}
                 src="../../static/assets/pic01.jpg"
-                alt="Intro" 
+                alt="Intro"
               />
             </Link>
           </span>
@@ -52,14 +52,14 @@ const Main = (props) => {
 
         <article id="work" className={`${props.article === 'work' ? 'active' : ''} ${props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
         <Link to="https://mansbooks.com" rel="noopener noreferrer" target="_blank" area-label="Mansbooks">
-          <h2 className="major">Work</h2>
+          <h2 className="major">Stake</h2>
         </Link>
           <span className="image main">
             <Link to="https://mansbooks.com" rel="noopener noreferrer" target="_blank" area-label="Mansbooks">
               <StaticImage
                 formats={["auto", "webp"]}
                 src="../../static/assets/pic02.jpg"
-                alt="Work" 
+                alt="Work"
               />
             </Link>
           </span>
@@ -83,14 +83,14 @@ const Main = (props) => {
 
         <article id="about" className={`${props.article === 'about' ? 'active' : ''} ${props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <Link to="https://publiuslogic.com" rel="noopener noreferrer" target="_blank" area-label="PubliusLogic">
-            <h2 className="major">About</h2>
+            <h2 className="major">Lab</h2>
           </Link>
           <span className="image main">
             <Link to="https://publiuslogic.com" rel="noopener noreferrer" target="_blank" area-label="PubliusLogic">
               <StaticImage
                 formats={["auto", "webp"]}
                 src="../../static/assets/pic03.jpg"
-                alt="About" 
+                alt="About"
               />
             </Link>
           </span>
@@ -107,7 +107,7 @@ const Main = (props) => {
         </article>
 
         <article id="contact" className={`${props.article === 'contact' ? 'active' : ''} ${props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
-          <h2 className="major">Contact Form</h2>
+          <h2 className="major">Contact</h2>
           <form
             className="contact-form"
             action="/thanks"
