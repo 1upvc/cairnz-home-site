@@ -52,7 +52,7 @@ const Layout = ({ children, location }) => {
           </Helmet>
           {content}
           <CookieConsent
-            enableDeclineButton 
+            enableDeclineButton
             flipButtons
             location="bottom"
             buttonText="Accept"
@@ -71,9 +71,9 @@ const Layout = ({ children, location }) => {
               textShadow: "2px 2px black",
             }}
           >
-            Don Boulton uses cookies for a better user experience.{" "}
-            <span 
-              style={{ 
+            Cairnz uses cookies for a better web experience.{" "}
+            <span
+              style={{
                 fontSize: "14px",
                 textAlign: "center",
                 marginLeft: "20px"
@@ -81,9 +81,9 @@ const Layout = ({ children, location }) => {
             >
               <span className="icon -lock">
                 <SiGnuprivacyguard />
-              </span>{" "} 
-              <Link to='https://publiuslogic.com/privacy' alt='Privacy Page'>
-                Privacy Page
+              </span>{" "}
+              <Link to='https://cairnz.com/privacy' alt='Privacy Page'>
+                Privacy Policy
               </Link>
             </span>
           </CookieConsent>
