@@ -28,24 +28,23 @@ const Main = (props) => {
             </Link>
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+          Our mission is to simple: grow and support proof of stake (PoS) solutions.
+          We strive to make PoS sustainable with a decentralized impact.
+
+          Since 2021, with democratization of crypto staking solutions, CAIRNZ has been dedicated to supporting a consistent sustainable path for proof of stake (PoS) or staking for everyone.  Often, staking paths have
+          markers or cairns - some are known.  We identify unknowns as 'z' factors.
+          'Cairnz' helps  with security and network based solutions as well as education for organizations and individuals partcipating in the staking community.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+          To explore Blockchain / Digital Asset Data Click Here: TBD
+          We provide services in the following areas:
+          <ul>
+            <li>Digital PoS Strategy</li>
+            <li>Product Deployment and Solutioning for PoS</li>
+            <li>Security of Stake Pools</li>
+            <li>Exploring Crypto Data</li>
+            <li>Unknown Factors or what we call "Z" Factors in PoS</li>
+          </ul>
           </p>
           {close}
         </article>
@@ -64,19 +63,46 @@ const Main = (props) => {
             </Link>
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+          We beleive in a decentralized future of commerce and are supporters
+          of the <a href='https://cardano.org/'>Cardano Project</a>.  Staking provides an opportunity
+          for securing the Cardano network or other networks (e.g., ETH, DASH) by processing data and keeping the network trusted.
+          </p>
+          <p>
+          The ability to delegate a stake is fundamental to how blockchain networks that are PoS are secured.
+          Our staking pools groups are based in North America and aimed at helping others maximize digital asset rewards by making staking or data processing
+          accessible as a source of value to anyone.   ADA held on the Cardano network represents a stake in the network, with the size of the
+          stake proportional to the amount of ADA held.  Details of stake pool(s) we support are located below.
+          </p>
+          <p>
+          Participate by delegating to the following pool(s):
+          <li>Ticker(s): CAIRN</li>
+          <li>Expected Annual Reward Rate: ~3-10% </li>
+          <li>Commission: Coming Soon </li>
+          <li>Delegation Hash: Coming Soon</li>
+          <li>Machine Specs: Coming Soon</li>
+          <li>Pool Margin: Coming Soon</li>
+          <li>Pledge: Coming Soon</li>
+          <li>Payout Frequency: Every Epoch (~5 days)</li>
+          <li>Potential Rewards Per Epoch: Coming Soon</li>
+          </p>
+          <p>
+          Stake with other Partners & Guidance
+          </p>
+          <p>
+          Interested in working with an larger partner to expand your network?  We've got you covered.
+          Check out <a href='https://staked.us/'>Staked.US</a>.
+          </p>
+          <p>
+          If interested, please reach out for an introduction to stake digital assets with a Partner.
+          Alternatively, use the following details Partner Link: <a href='staked.us/?pid=FDrCpe2et1'>Staked.US</a> | Code: FDrCpe2et1
+          </p>
+          <p>
+          For further guidance on Cardano and stake pools, please
+          navigate to <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>.  To learn how to
+          delegate your Cardano (ADA), navigate to
+          video <a href='https://www.youtube.com/watch?v=VtkjM_0k4R0'>Delegating
           </p>
           {close}
         </article>
@@ -95,13 +121,7 @@ const Main = (props) => {
             </Link>
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            Coming Soon
           </p>
           {close}
         </article>
