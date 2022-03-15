@@ -102,7 +102,7 @@ const Main = (props) => {
           For further guidance on Cardano and stake pools, please
           navigate to <a href='https://cardano.org/stake-pool-operation/'>Cardano Stake Pool Operation for Developers</a>.  To learn how to
           delegate your Cardano (ADA), navigate to
-          video <a href='https://www.youtube.com/watch?v=VtkjM_0k4R0'>Delegating
+          video <a href='https://www.youtube.com/watch?v=VtkjM_0k4R0'>Delegating in Daedalus Wallet for Cardano</a>
           </p>
           {close}
         </article>
