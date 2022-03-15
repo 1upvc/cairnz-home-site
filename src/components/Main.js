@@ -77,7 +77,7 @@ const Main = (props) => {
           </p>
           <p>
           Participate by delegating to the following pool(s):
-          <li>Ticker(s): CAIRN</li>
+          <li>Ticker(s): PATH</li>
           <li>Expected Annual Reward Rate: ~3-10% </li>
           <li>Commission: Coming Soon </li>
           <li>Delegation Hash: Coming Soon</li>
