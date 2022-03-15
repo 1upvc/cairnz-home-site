@@ -10,13 +10,13 @@ const Header = (props) => (
         </div>
         <div className="content">
             <div className="inner">
-              <h1>Dimension V4</h1>
+              <h1>CAIRNZ</h1>
               <p>
-                A fully responsive site template designed by{' '}
-               <a href="https://donboulton.com">Don Boulton</a> and released
+                Find the path with our {' '}
+               <a href="https://github.com">Pool</a> and explore
                 <br />
-                for free under a{' '}
-                <a href="https://donboulton.com/privacy">BSD</a> license.
+                crypto {' '}
+                <a href="https://coindesk.com">data</a> all with Cairnz.
               </p>
             </div>
         </div>
