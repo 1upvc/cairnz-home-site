@@ -16,7 +16,7 @@ const Header = (props) => (
                <a href="https://github.com">Pool</a> and explore
                 <br />
                 crypto {' '}
-                <a href="https://coindesk.com">data</a> all with Cairnz.
+                <a href="https://coindesk.com">data</a> all with us.
               </p>
             </div>
         </div>
