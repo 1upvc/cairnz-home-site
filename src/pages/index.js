@@ -109,8 +109,8 @@ class IndexPage extends React.Component {
             <StaticImage
               id="bg"
               formats={["auto", "webp"]}
-              src="../../static/assets/bg.jpg"
-              alt="Dimensions Image" 
+              src="../../static/assets/mountain2.jpg"
+              alt="Dimensions Image"
             />
           </div>
         </div>
