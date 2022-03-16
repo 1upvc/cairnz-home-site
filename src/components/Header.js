@@ -12,10 +12,10 @@ const Header = (props) => (
             <div className="inner">
               <h1>CAIRNZ</h1>
               <p>
-                Find the path with our {' '}
-               <a href="https://github.com">Pool</a> and explore
+                Find the path to your {' '}
+               <a href="https://github.com">Stake Pool</a> and explore
                 <br />
-                crypto {' '}
+                blockchain {' '}
                 <a href="https://coindesk.com">data</a> all with us.
               </p>
             </div>
