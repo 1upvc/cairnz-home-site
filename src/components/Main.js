@@ -36,12 +36,11 @@ const Main = (props) => {
           'Cairnz' helps  with security and network based solutions as well as education for organizations and individuals partcipating in the staking community.
           </p>
           <p>
-          To explore Blockchain / Digital Asset Data Click Here: TBD
-          We provide services in the following areas:
+          We provide support in the following areas:
           <ul>
-            <li>Proof of Stake (PoS) Strategy</li>
+            <li>Stake Pools for Cardano</li>
             <li>Blockchain Data</li>
-            <li>Security of Stake Pools and Z Factors</li>
+            <li>Cyber Security</li>
           </ul>
           </p>
           {close}
