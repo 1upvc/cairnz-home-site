@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: "Donald Boulton - Dimension V4",
-    author: "Donald Boulton",
-    siteUrl: "https://donboulton.com",
-    siteImage: "/static/assets/bg.jpg",
-    description: "A Gatsby.js V4 Starter based on Dimension by HTML5 UP"
+    title: "Cairnz",
+    author: "1UPVC",
+    siteUrl: "https://cairnz.com",
+    siteImage: "/static/assets/mountain2.jpg",
+    description: "Cardano Staking and Crypto Data"
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
