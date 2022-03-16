@@ -32,18 +32,16 @@ const Main = (props) => {
           We strive to make PoS sustainable with a decentralized impact.
 
           Since 2021, with democratization of crypto staking solutions, CAIRNZ has been dedicated to supporting a consistent sustainable path for proof of stake (PoS) or staking for everyone.  Often, staking paths have
-          markers or cairns - some are known.  We identify unknowns as 'z' factors.
+          have markers or cairns - some are known.  We identify unknowns on this journey as 'z' factors.
           'Cairnz' helps  with security and network based solutions as well as education for organizations and individuals partcipating in the staking community.
           </p>
           <p>
           To explore Blockchain / Digital Asset Data Click Here: TBD
           We provide services in the following areas:
           <ul>
-            <li>Digital PoS Strategy</li>
-            <li>Product Deployment and Solutioning for PoS</li>
-            <li>Security of Stake Pools</li>
-            <li>Exploring Crypto Data</li>
-            <li>Unknown Factors or what we call "Z" Factors in PoS</li>
+            <li>Proof of Stake (PoS) Strategy</li>
+            <li>Blockchain Data</li>
+            <li>Security of Stake Pools and Z Factors</li>
           </ul>
           </p>
           {close}
