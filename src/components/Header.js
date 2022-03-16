@@ -12,8 +12,8 @@ const Header = (props) => (
             <div className="inner">
               <h1>CAIRNZ</h1>
               <p>
-                Find the path to your {' '}
-               <a href="https://github.com">Stake Pool</a> and explore
+                Find the path to {' '}
+               <a href="https://github.com">Stake Pools</a> and explore
                 <br />
                 blockchain {' '}
                 <a href="https://coindesk.com">data</a> all with us.
